@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "959830217383",
+    "firebase_url": "https://app-counter-ec8cd.firebaseio.com",
+    "project_id": "app-counter-ec8cd",
+    "storage_bucket": "app-counter-ec8cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959830217383:android:0b2c4758575f63f8",
+        "android_client_info": {
+          "package_name": "com.example.fast_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959830217383-on0gcoe4vnufgauuehb5mrsf9hajl405.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEO0UTvqunsW80uEGcjKH68_Y40KaFHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
